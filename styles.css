@@ -1,0 +1,10 @@
+.subtitle{
+	margin-bottom: -1.1rem;
+}
+
+body{
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/225px-Wikipedia-logo-v2.svg.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-position: center;
+}
